@@ -16,6 +16,7 @@
     <item name="button_orange" type="color">#F08C16</item>
     <item name="button_black" type="color">#ff2c2c2c</item>
     <item name="button_white" type="color">#FFFFFFFF</item>
+    <item name="bluegray" type="color">#263238</item>
 
 
     <integer-array name="androidcolors">
